@@ -1,0 +1,18 @@
+拉取
+1.git init
+2.git pull 地址
+
+
+··
+提交
+1.git add .
+2.git commit -m "xiugai"
+3.git remote add origin 地址
+
+如果不知道远程仓库这段时间别人有没有修改  先拉去代码和本地代码合并 解决冲突
+git pull 地址
+4.git push origin master
+
+
+
+
