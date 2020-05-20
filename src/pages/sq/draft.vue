@@ -128,7 +128,7 @@
 </template>
 <style></style>
 <style scoped>
-/* s */
+/* s222 */
 .mint-button--large {
   width: 50%;
 }
